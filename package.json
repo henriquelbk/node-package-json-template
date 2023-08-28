@@ -1,0 +1,21 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "**Vamos utilizar esse repositório para as práticas da aula!**",
+  "main": "countries.js",
+  "type":"module" ,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriquelbk/node-package-json-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henriquelbk/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/henriquelbk/node-package-json-template#readme"
+}
